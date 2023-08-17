@@ -41,7 +41,7 @@ This project involves the following key analysis steps:
 
 ## Age Distribution
 
-![Age Distribution](images/age_distribution.png)
+[Age Distribution](images/age_distribution.png)
 
 The above visualization shows the distribution of customer ages in the dataset.
 
